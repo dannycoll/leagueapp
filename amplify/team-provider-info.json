@@ -10,6 +10,17 @@
       "StackName": "amplify-leagueapp-dev-234838",
       "StackId": "arn:aws:cloudformation:eu-west-1:993539910665:stack/amplify-leagueapp-dev-234838/35a5d3c0-2ed3-11ec-a0cb-024f2d0a572d",
       "AmplifyAppId": "d20i3vod9edyc8"
+    },
+    "categories": {
+      "auth": {
+        "cognito0c4cc619": {}
+      },
+      "function": {
+        "leagueappf478b656": {
+          "deploymentBucketName": "amplify-leagueapp-dev-234838-deployment",
+          "s3Key": "amplify-builds/leagueappf478b656-43553969695471463241-build.zip"
+        }
+      }
     }
   }
 }
